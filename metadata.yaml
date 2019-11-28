@@ -1,5 +1,5 @@
 homepage: "https://www.attriva.com/"
 documentation: "https://attriva.com/google-tag-manager-template-for-drift/"
 versions:
-  - sha: e07fd6e0a03b413861cad4c09e397c615f7ae939
+  - sha: 6a8e0dddc2f83f03353803b18c38c144550c4c51
     changeNotes: Update template metadata.
